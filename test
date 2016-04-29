@@ -1,2 +1,4 @@
 Select * from test1;
 select * from test2;
+
+select * from test3;
