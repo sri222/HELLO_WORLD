@@ -2,3 +2,4 @@ Select * from test1;
 select * from test2;
 
 select * from test3;
+select * from test4;
